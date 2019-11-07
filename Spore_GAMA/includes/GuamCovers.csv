@@ -1,0 +1,24 @@
+name,colorR,colorG,colorB,vegNb
+Acacia Forest,102,102,0,1
+Agriculture,255,255,204,2
+Bamboo Thicket,255,230,179,3
+Bare Rock,128,128,128,-1
+Bare Soil/Gravel,102,51,0,-2
+Casuarina Forest,102,102,0,4
+Coastal Scrub,204,221,255,5
+Coconut Forest,102,102,0,6
+Developed,0,0,0,7
+Developed Vegetation,0,51,102,8
+Emergent Wetland,0,153,153,-3
+Grassland,204,68,0,9
+Hibiscus Thicket,255,255,0,10
+Leucaena Thicket,255,255,0,11
+Mangrove Wetland,0,204,204,-4
+Mixed Grass/Herbaceous,255,128,0,12
+Mixed Introduced Forest,102,204,0,13
+Native Limestone Forest,0,102,51,14
+Native Volcanic Forest,0,51,25,15
+Open Water,0,255,255,-5
+Sand,204,204,0,-6
+Scrub/Shrub,255,0,0,16
+Vitex Forest,187,255,153,17
